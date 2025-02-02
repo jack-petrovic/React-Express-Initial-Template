@@ -28,21 +28,16 @@ To get started with this template, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/react-express-template.git
+   git clone https://github.com/jack-petrovic/React-Express-Initial-Template.git
 Navigate to the project directory:
-Copy
-cd react-express-template
+cd react-express-initial-template<br/>
 Install the dependencies:
-Copy
-npm install
+npm install<br/>
 Start the development server:
-Copy
-npm start
+npm start<br/>
 Feel free to customize this template further to suit your project's needs!
 
 Thank you for choosing our template, and happy coding! 🎉
-
-Copy
 
 ### Enhancements Made:
 - **Emojis**: Used various emojis to create a fun and engaging atmosphere.
